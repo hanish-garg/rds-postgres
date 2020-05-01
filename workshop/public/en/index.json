@@ -1,0 +1,140 @@
+[
+	{	"pageTitle": "Index",
+		"relativePagePath": "/en/"
+	},    
+	{
+		"pageTitle": "Lab1 - Prerequisites",
+		"relativePagePath": "/en/lab1.html"
+	},
+	{
+		"pageTitle": "Signing into the AWS Management console",
+		"relativePagePath": "/en/lab1/task1.html"
+	},
+	{
+		"pageTitle": "Creating a lab environment using AWS CloudFormation",
+		"relativePagePath": "/en/lab1/task2.html"
+	},
+	{
+		"pageTitle": "Verify lab environment",
+		"relativePagePath": "/en/lab1/task3.html"
+	},
+	{
+		"pageTitle": "Lab1 - Connect to the Database",
+		"relativePagePath": "/en/lab1a.html"
+	},
+	{
+		"pageTitle": "Connect to your workstation instance",
+		"relativePagePath": "/en/lab1a/task1.html"
+	},
+	{
+		"pageTitle": "Verify Lab Environment",
+		"relativePagePath": "/en/lab1a/task2.html"
+	},
+	{
+		"pageTitle": "Lab2 - Create a new RDS MySQL instance",
+		"relativePagePath": "/en/lab2.html"
+	},
+	{
+		"pageTitle": "Create the DB instance",
+		"relativePagePath": "/en/lab2/task1.html"
+	},
+	{
+		"pageTitle": "Retrieve the DB instance endpoint",
+		"relativePagePath": "/en/lab2/task2.html"
+	},
+	{
+		"pageTitle": "Create an AWS Secrets Manager secret",
+		"relativePagePath": "/en/lab2/task3.html"
+	},
+	{
+		"pageTitle": "Configure the client workstation",
+		"relativePagePath": "/en/lab2/task4.html"
+	},
+	{
+		"pageTitle": "Verify DB Instance",
+		"relativePagePath": "/en/lab2/task5.html"
+	},
+	{
+		"pageTitle": "Basics",
+		"relativePagePath": "/en/basics.html"
+	},
+	{
+		"pageTitle": "Requirements",
+		"relativePagePath": "/en/basics/requirements.html"
+	},
+	{
+		"pageTitle": "Installation",
+		"relativePagePath": "/en/basics/installation.html"
+	},
+	{
+		"pageTitle": "Configuration",
+		"relativePagePath": "/en/basics/configuration.html"
+	},
+	{
+		"pageTitle": "Content",
+		"relativePagePath": "/en/cont.html"
+	},
+	{
+		"pageTitle": "Pages Organization",
+		"relativePagePath": "/en/cont/pages.html"
+	},
+	{
+		"pageTitle": "Archetypes",
+		"relativePagePath": "/en/cont/archetypes.html"
+	},
+	{
+		"pageTitle": "Markdown Syntax",
+		"relativePagePath": "/en/cont/markdown.html"
+	},
+	{
+		"pageTitle": "Icons and Logos",
+		"relativePagePath": "/en/cont/icons.html"
+	},
+	{
+		"pageTitle": "Multilingual and i18n",
+		"relativePagePath": "/en/cont/i18n.html"
+	},
+	{
+		"pageTitle": "Shortcodes",
+		"relativePagePath": "/en/shortcodes.html"
+	},
+	{
+		"pageTitle": "Attachments",
+		"relativePagePath": "/en/shortcodes/attachments.html"
+	},
+	{
+		"pageTitle": "Button",
+		"relativePagePath": "/en/shortcodes/button.html"
+	},
+	{
+		"pageTitle": "Children",
+		"relativePagePath": "/en/shortcodes/children.html"
+	},    
+	{
+		"pageTitle": "Expand",
+		"relativePagePath": "/en/shortcodes/expand.html"
+	},
+	{
+		"pageTitle": "Image",
+		"relativePagePath": "/en/shortcodes/img.html"
+	},
+	{
+		"pageTitle": "Notice",
+		"relativePagePath": "/en/shortcodes/notice.html"
+	},
+	{
+		"pageTitle": "Site param",
+		"relativePagePath": "/en/shortcodes/siteparam.html"
+	},
+	{
+		"pageTitle": "Site URL",
+		"relativePagePath": "/en/shortcodes/siteurl.html"
+	},
+	{
+		"pageTitle": "Launch",
+		"relativePagePath": "/en/launch.html"
+	},
+	{
+		"pageTitle": "Metadata",
+		"relativePagePath": "/en/launch/metadata.html"
+	}]
