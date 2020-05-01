@@ -1,5 +1,5 @@
 +++
-title = "Amazon RDS for MySQL Labs"
+title = "Amazon RDS for PostgreSQL Labs"
 chapter = true
 weight = 1
 +++
